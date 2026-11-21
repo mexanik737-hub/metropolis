@@ -1,0 +1,6 @@
+{
+  "name": "METROPOLIS: Симулятор Жизни и Экономики v0.16",
+  "description": "Масштабная ролевая игра и симулятор жизни METROPOLIS v0.16. Карьера, бизнес, шахта, печатные станки, криптосерверы, банки, казино и мегаполис.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
